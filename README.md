@@ -1,4 +1,6 @@
-# CRFN
+#📒 CRFN: Residual Cross-Modal Fusion Networks for Audio-Visual Navigation
+### This paper presents CRFN, a cross-modal residual fusion network designed for audio-visual navigation tasks. CRFN achieves fine-grained alignment and complementary modeling between modalities through a bidirectional residual interaction mechanism, while a fusion controller dynamically adjusts the contribution of each modality, effectively suppressing imbalance and feature degradation. Experimental results demonstrate that CRFN achieves superior navigation performance and stable cross-domain generalization in diverse and complex environments, validating the effectiveness and robustness of the proposed fusion mechanism.
+
 
 ## 📋 Environment Requirements
 This project is developed with Python 3.7 on Ubuntu 24.04. If you are using miniconda or anaconda, you can create an environment with following instructions.
